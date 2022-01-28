@@ -1,0 +1,30 @@
+h1 {
+  margin-left: 10px;
+  color: plum;
+  font-family: cursive;
+  background-color: pink;
+  border: 16px solid plum;
+  padding: 40px;
+  text-align: center;
+  font-size: 50px;
+  }
+
+h2 {
+  color: olivedrab;
+  font-family: sans-serif;
+}
+
+p {
+  color: green;
+}
+
+body {
+  background-color: mistyrose;
+}
+
+img {
+  border: 20px solid plum;
+  width: 30%;
+  height: 30%;
+  margin-left: 500px;
+}
